@@ -1,5 +1,5 @@
 # 💫 About Me:
-❤ I'm currently working on My Website<br>📖I'm currently learning CSS<br>
+❤I'm currently working on My Website<br>📖I'm currently learning CSS<br>
 
 
 ## 🌐 Socials:
