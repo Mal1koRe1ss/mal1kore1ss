@@ -1,4 +1,4 @@
-<img src="https://github.com/Mal1koRe1ss/mal1kore1ss/blob/main/Untitled-1.png?raw=true">
+<img src="https://github.com/Mal1koRe1ss/mal1kore1ss/blob/main/Untitled-1.png?raw=true" align="center">
 <table>
   <tr>
     <td colspan="3">
