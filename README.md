@@ -23,7 +23,7 @@
   </tr>
 </table>
 <table align="left" cellpadding="10">
-  <tr>
+  <tr align="center">
     <th>📞 Contact</th>
     <th>‬🌐 Social</th>
   </tr>
