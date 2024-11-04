@@ -22,8 +22,8 @@
     </td>
   </tr>
 </table>
-<table align="left" cellpadding="10">
-  <tr align="center">
+<table align="center" cellpadding="10">
+  <tr>
     <th>📞 Contact</th>
     <th>‬🌐 Social</th>
   </tr>
