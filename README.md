@@ -1,4 +1,4 @@
-<p align="center" style="padding-bottom: 0px;margin-bottom 0px;"><img src="https://github.com/Mal1koRe1ss/mal1kore1ss/blob/main/Untitled-1.png?raw=true"></p>
+<p align="center"><img src="https://github.com/Mal1koRe1ss/mal1kore1ss/blob/main/Untitled-1.png?raw=true"></p>
 <table>
   <tr>
     <td colspan="3">
