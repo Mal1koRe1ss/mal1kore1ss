@@ -30,7 +30,7 @@
   <tr>
     <td height="45">
       <fieldset>
-        <a href="mailto:malikoreis@trycatch.network">malikoreis@trycatch.network</a>
+        <a href="mailto:trycatchcommunity@gmail.com">trycatchcommunity@gmail.com</a>
       </fieldset>
     </td>
     <td height="65">
