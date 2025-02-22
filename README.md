@@ -18,7 +18,7 @@
       In this account, you can see the projects I have done and the infrastructures I have established while improving myself.
     </td>
     <td>
-      I am currently learning SourcePawn(C++ Sourcemod Library). Here are the languages and ​​platforms I know and use. .NET, CSS3, SASS, HTML5, Markdown, JavaScript, C#, C++, Adobe After Effects, Unreal Engine 5
+      I am currently learning SourcePawn(C++ Sourcemod Library). Here are the languages and ​​platforms I know and use. .NET, CSS3, SASS, HTML5, Markdown, JavaScript, C#, SourcePawn, C++, Adobe After Effects, Unreal Engine 5
     </td>
   </tr>
 </table>
