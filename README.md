@@ -31,13 +31,14 @@
     <td height="45">
       <fieldset>
         <a href="mailto:mal1kore1ss@proton.me">mal1kore1ss@proton.me</a>
+        <a href="https://discordapp.com/users/1020731689330286694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1020731689330286694" height="30" width="30" /> Discord Account</a>
       </fieldset>
     </td>
     <td height="65">
       <p align="center">
       <a href="https://www.youtube.com/@mal1kore1ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mal1kore1ss" height="30"   width="40" /> YouTube</a>
       <a href="https://www.youtube.com/@trycatch00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@trycatch00" height="30"   width="40" /> TryCatch's YouTube</a>
-      <a href="https://discordapp.com/users/1020731689330286694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1020731689330286694" height="30" width="40" /> Discord Account</a>
+      
       </p>
     </td>
   </tr>
