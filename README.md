@@ -18,7 +18,7 @@
       In this account, you can see the projects I have done and the infrastructures I have established while improving myself.
     </td>
     <td>
-      I am currently learning Java. Here are the languages and ​​platforms I know and use. .NET, CSS3, SASS, HTML5, Markdown, JavaScript, C#, SourcePawn, C++, Java, Adobe After Effects
+      I am currently learning Java. Here are the languages and ​​platforms I use. Markdown, JavaScript, SourcePawn, C++, Java, Adobe After Effects
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@
   <tr>
     <td height="45">
       <fieldset>
-        <a href="mailto:trycatchcommunity@gmail.com">trycatchcommunity@gmail.com</a>
+        <a href="mailto:mal1kore1ss@proton.me">mal1kore1ss@proton.me</a>
       </fieldset>
     </td>
     <td height="65">
