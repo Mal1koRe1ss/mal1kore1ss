@@ -38,8 +38,5 @@
       <p align="center">
       <a href="https://www.youtube.com/@mal1kore1ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mal1kore1ss" height="30"   width="40" /> YouTube</a>
       <a href="https://www.youtube.com/@trycatch00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@trycatch00" height="30"   width="40" /> TryCatch's YouTube</a>
-      
-      </p>
-    </td>
   </tr>
 </table>
