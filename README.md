@@ -5,7 +5,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I’m currently working on [My game](https://github.com/Mal1koRe1ss/IncrementalGame)<br>🌱 I’m currently learning Java
+🔭 I’m currently working on [GoodbyeDPI-Gui](https://github.com/Mal1koRe1ss/GoodbyeDPI-GUI)<br>🌱 I’m currently learning Java
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DUxFWjqQRD) 
