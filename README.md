@@ -5,7 +5,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I’m currently working on nothin'<br>🌱 I’m currently learning Java
+🔭 I’m currently working on nothin'<br>🌱 I’m currently learning Networking & GOLang
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DUxFWjqQRD) 
