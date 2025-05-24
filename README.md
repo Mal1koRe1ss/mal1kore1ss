@@ -42,7 +42,7 @@
 <div align="center">
 
 ### 🌐 Socials
-[![Discord](https://img.shields.io/badge/-Mal1koRe1ss%238888-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DUxFWjqQRD)
+[![Discord](https://img.shields.io/badge/-Mal1koRe1ss%23-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DUxFWjqQRD)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mal1kore1ss)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mal1kore1ss)
 
