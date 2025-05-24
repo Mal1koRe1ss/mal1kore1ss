@@ -9,6 +9,8 @@
 
 ---
 
+<div align="center">
+
 ### 🛠️ Tech Stack
 **Languages:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -21,22 +23,28 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
-### 📈 GitHub Analytics
 <div align="center">
+
+### 📈 GitHub Analytics
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mal1koRe1ss&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mal1koRe1ss&theme=dark&hide_border=true&background=0D1117&border=444)
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mal1koRe1ss&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mal1koRe1ss&theme=dark&hide_border=true&layout=compact&langs_count=8&hide=html,css&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)
 
 </div>
 
 ---
+
+<div align="center">
 
 ### 🌐 Socials
 [![Discord](https://img.shields.io/badge/-Mal1koRe1ss%238888-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DUxFWjqQRD)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mal1kore1ss)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mal1kore1ss)
 
+</div>
 
