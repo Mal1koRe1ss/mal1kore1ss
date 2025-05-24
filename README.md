@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1b71,100:a82da3&height=200&section=header&text=Mal1koRe1ss&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-</p>
-
 <div align="center">
 
 ### 🚀 Full Stack Developer
@@ -38,19 +34,9 @@
 
 ---
 
-### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mal1koRe1ss&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 🌐 Socials
 [![Discord](https://img.shields.io/badge/-Mal1koRe1ss%238888-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DUxFWjqQRD)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mal1kore1ss)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mal1kore1ss)
 
 ---
-
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/Mal1koRe1ss/Mal1koRe1ss/blob/output/github-contribution-grid-snake.svg)
-
-</div>
