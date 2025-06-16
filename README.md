@@ -3,7 +3,7 @@
 ### 🚀 Full Stack Developer
 🌱 Currently learning **C**  
 💡 Passionate about low-level programming and system design  
-⚡ Fun fact: I love reverse engineering and game modding
+⚡ Fun fact: I love reverse engineering, networking and game modding
 
 </div>
 
