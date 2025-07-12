@@ -1,9 +1,9 @@
 <div align="center">
 
-### 🚀 Full Stack Developer
-🌱 Currently learning **C**  
-💡 Passionate about low-level programming and system design  
-⚡ Fun fact: I love reverse engineering, networking and game modding
+### 🚀 Back-End Developer
+🌱 Currently diving deeper into **C**  
+💡 Passionate about low-level programming and efficient designs  
+⚡ Fun fact: I love reverse engineering, networking, game modding, graphic programming
 
 </div>
 
@@ -21,6 +21,8 @@
 **Tools & Technologies:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-009B0D?style=for-the-badge&logo=vim&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-4B7BBD?style=for-the-badge&logo=opengl&logoColor=white) <!-- Renk güncellendi -->
 
 </div>
 
@@ -46,4 +48,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mal1kore1ss)
 
 </div>
-
