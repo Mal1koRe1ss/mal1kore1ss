@@ -5,22 +5,11 @@ Passionate about: **Linux**, **Unix/Unix-Like OS's**, **low-level/embedded**, **
 
 ---
 
-### 🛠️ **Tech Stack**  
-**LANGUAGES:**  
-[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=&type=&language=c) 
-[![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=&type=&language=c%2B%2B)
-[![JavaScript](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=&type=&language=javascript)  
+### 🛠️ **Tech Stack**
 
-**DOMAINS:**  
-[![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=white&labelColor=2c2c2c)]("no-projects-for-this-one-xd")
-[![Socket Programming](https://img.shields.io/badge/Sockets-000000?style=for-the-badge&logo=icloud&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=socket)
-[![Web Framework](https://img.shields.io/badge/Lower-000000?style=for-the-badge&logo=htmx&logoColor=white&labelColor=2c2c2c)](https://github.com/trycatchh/lower)
-
-**TOOLS:**  
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=linux)
-[![Vim](https://img.shields.io/badge/VIM-000000?style=for-the-badge&logo=vim&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=vim)
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=git)  
-
+| LANGUAGES | DOMAINS | TOOLS |
+|-----------|---------|-------|
+| [![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=&type=&language=c) [![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=&type=&language=c%2B%2B) [![JavaScript](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=&type=&language=javascript) | [![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss) [![Socket Programming](https://img.shields.io/badge/Sockets-000000?style=for-the-badge&logo=icloud&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=socket) [![Web Framework](https://img.shields.io/badge/Lower-000000?style=for-the-badge&logo=htmx&logoColor=white&labelColor=2c2c2c)](https://github.com/trycatchh/lower) | [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=linux) [![Vim](https://img.shields.io/badge/VIM-000000?style=for-the-badge&logo=vim&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=vim) [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=git)
 ---
 
 ### ⚡ **Current Focus**  
