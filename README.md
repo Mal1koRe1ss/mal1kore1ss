@@ -1,50 +1,40 @@
-<div align="center">
-
-### 🚀 Back-End Developer
-🌱 Currently diving deeper into **C**  
-💡 Passionate about low-level programming and efficient designs  
-⚡ Fun fact: I love reverse engineering, networking, game modding, graphic programming
-
-</div>
+### 👋 **Introduction**
+**14 y/o Türk Systems Programmer** building efficient backends in **C** 🔨<br>
+Passionate about: **Linux**, **Unix/Unix-Like OS's**, **low-level/embedded**, **math**, **electronics**
+> *"I live in the heart of the machine; I build the universe in my lines."*  
 
 ---
 
-<div align="center">
+### 🛠️ **Tech Stack**  
+**LANGUAGES:**  
+[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=&type=&language=c) 
+[![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=&type=&language=c%2B%2B)
+[![JavaScript](https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=&type=&language=javascript)  
 
-### 🛠️ Tech Stack
-**Languages:**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**DOMAINS:**  
+[![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=white&labelColor=2c2c2c)]("no-projects-for-this-one-xd")
+[![Socket Programming](https://img.shields.io/badge/Sockets-000000?style=for-the-badge&logo=icloud&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=socket)
+[![Web Framework](https://img.shields.io/badge/Lower-000000?style=for-the-badge&logo=htmx&logoColor=white&labelColor=2c2c2c)](https://github.com/trycatchh/lower)
 
-**Tools & Technologies:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-009B0D?style=for-the-badge&logo=vim&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-4B7BBD?style=for-the-badge&logo=opengl&logoColor=white) <!-- Renk güncellendi -->
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 GitHub Analytics
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mal1koRe1ss&theme=dark&hide_border=true&background=0D1117&border=444)
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mal1koRe1ss&theme=dark&hide_border=true&layout=compact&langs_count=8&hide=html,css&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)
-
-</div>
+**TOOLS:**  
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=linux)
+[![Vim](https://img.shields.io/badge/VIM-000000?style=for-the-badge&logo=vim&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=vim)
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=git)  
 
 ---
 
-<div align="center">
+### ⚡ **Current Focus**  
+- **[Lower](https://github.com/trycatchh/lower)**: Web Framework accelerates the development process with its flexibility & speed of use.
 
-### 🌐 Socials
-[![Discord](https://img.shields.io/badge/-Mal1koRe1ss-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DUxFWjqQRD)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mal1kore1ss)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mal1kore1ss)
+---
 
-</div>
+### 📊 **GitHub Stats**  
+[![Mal1koRe1ss's Stats](https://github-readme-stats.vercel.app/api?username=Mal1koRe1ss&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=4B7BBD)](https://github.com/Mal1koRe1ss)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mal1koRe1ss&theme=dark&hide_border=true&layout=compact&langs_count=8&hide=html,css&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/Mal1koRe1ss)  
+
+---
+
+### 🌐 **Connect**  
+[![Discord](https://img.shields.io/badge/Mal1koRe1ss-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c2c2c)](https://discord.gg/users/1020731689330286694)
+[![YouTube](https://img.shields.io/badge/Mal1koRe1ss-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2c2c2c)](https://youtube.com/@mal1kore1ss)
+[![Instagram](https://img.shields.io/badge/Mal1koRe1ss-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2c2c2c)](https://www.instagram.com/mal1kore1ss/)
