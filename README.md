@@ -17,9 +17,9 @@ Passionate about: **Linux**, **Unix/Unix-Like OS's**, **low-level/embedded**, **
 [![Web Framework](https://img.shields.io/badge/Lower-000000?style=for-the-badge&logo=htmx&logoColor=white&labelColor=2c2c2c)](https://github.com/trycatchh/lower)
 
 **TOOLS:**  
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=linux)
-[![Vim](https://img.shields.io/badge/VIM-000000?style=for-the-badge&logo=vim&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=vim)
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss?tab=repositories&q=git)  
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=2c2c2c)](https://linux.org/)
+[![Vim](https://img.shields.io/badge/VIM-000000?style=for-the-badge&logo=vim&logoColor=white&labelColor=2c2c2c)](https://www.vim.org/)
+[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=2c2c2c)](https://git-scm.com/downloads)  
 
 ---
 
