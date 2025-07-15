@@ -1,5 +1,5 @@
 ### 👋 **Introduction**
-**14 y/o Türk Systems Programmer** building efficient backends in **C** 🔨<br>
+**14 y/o Systems Programmer from Türkiye** building efficient backends in **C** 🔨<br>
 Passionate about: **Linux**, **Unix/Unix-Like OS's**, **low-level/embedded**, **math**, **electronics**.<br>
 Building **[@trycatchh](https://github.com/trycatchh)**
 > *"An idiot admirers complexity, a genius admirers simplicity" - Terry Andrew Davis(1969-2018)*  
