@@ -25,7 +25,7 @@ Building **[@trycatchh](https://github.com/trycatchh)**
 ---
 
 ### ⚡ **Current Focus**  
-- **[Lower](https://github.com/trycatchh/lower)**: Web Framework accelerates the development process with its flexibility & speed of use.
+- ralloc (Currently in development....) : Custom memory allocator built in C that targets, learning how memory allocators work with documentaries.
 
 ---
 
