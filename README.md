@@ -25,7 +25,7 @@ Building **[@trycatchh](https://github.com/trycatchh)**
 ---
 
 ### ⚡ **Current Focus**  
-- ralloc (Currently in development....) : Custom memory allocator built in C that targets, learning how memory allocators work with documentaries.
+- [ralloc](https://github.com/Mal1koRe1ss/ralloc) : Custom memory allocator built in C that targets, learning how memory allocators work with documentaries.
 
 ---
 
