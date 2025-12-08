@@ -29,7 +29,7 @@ Building **[@trycatchnet](https://github.com/trycatchnet)**
 
 ---
 
-### 📊 **GitHub Stats**  
+<!--- ### 📊 **GitHub Stats**  --->
 <!---[![Mal1koRe1ss's Stats](https://github-readme-stats.vercel.app/api?username=Mal1koRe1ss&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=4B7BBD)](https://github.com/Mal1koRe1ss)  --->
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mal1koRe1ss&theme=dark&hide_border=true&layout=compact&langs_count=8&hide=html,css&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/Mal1koRe1ss)  --->
 
