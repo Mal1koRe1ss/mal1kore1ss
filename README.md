@@ -15,7 +15,6 @@ Building **[@trycatchnet](https://github.com/trycatchnet)**
 **DOMAINS:**  
 [![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss/gl_studies)
 [![Socket Programming](https://img.shields.io/badge/Sockets-000000?style=for-the-badge&logo=icloud&logoColor=white&labelColor=2c2c2c)](https://github.com/Mal1koRe1ss/sockets)
-[![Web Framework](https://img.shields.io/badge/Lower-000000?style=for-the-badge&logo=htmx&logoColor=white&labelColor=2c2c2c)](https://github.com/trycatchh/lower)
 
 **TOOLS:**  
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=2c2c2c)](https://linux.org/)
