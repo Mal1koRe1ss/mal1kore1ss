@@ -25,7 +25,7 @@ Building **[@trycatchnet](https://github.com/trycatchnet)**
 ---
 
 ### ⚡ **Current Focus**  
-- [mrshell](https://github.com/trycatchnet/mrshell)
+- [sockets](https://github.com/Mal1koRe1ss/sockets/tree/learn)
 
 <!--- ### 📊 **GitHub Stats**  --->
 <!---[![Mal1koRe1ss's Stats](https://github-readme-stats.vercel.app/api?username=Mal1koRe1ss&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=4B7BBD)](https://github.com/Mal1koRe1ss)  --->
