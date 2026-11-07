@@ -14,7 +14,7 @@ root@mal1kore1ss’s password:
 
 [root@mal1kore1ss ~/info]$ ./tech_stack
 > [ C ] [ C++ ] [ Java ] [ Sockets ]
-> [ Linux ] [ FreeBSD ] [ Vim ] [ Git ]
+> [ Linux ] [ Vim ] [ Git ]
 
 [root@mal1kore1ss ~/info]$ env | grep $SOCIAL
 > MAIL=mal1kore1ss@proton.me
