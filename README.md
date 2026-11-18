@@ -2,7 +2,6 @@
 [mal1kore1ss@archlinux ~]$ ssh -i ~/.ssh/iamboot.pem root@mal1kore1ss
 root@mal1kore1ss’s password:
 [root@mal1kore1ss ~]$ cd ./info
-
 [root@mal1kore1ss ~/info]$ ./whoami
 > 15, system programmer, TR.
 > building low-level
